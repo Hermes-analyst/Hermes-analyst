@@ -19,7 +19,7 @@ I aim to apply my analytical skills to **monitor, detect, and respond to securit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Hermes-analyst/SNORT-IDS-IPS/tree/main">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Hermes-analyst/SNORT-IDS-IPS/tree/main"> IDS/IPS </a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -59,7 +59,7 @@ I aim to apply my analytical skills to **monitor, detect, and respond to securit
 </div>
 
 ## Projects
-- Detection Lab
+- <a href ="https://github.com/Hermes-analyst/SNORT-IDS-IPS/tree/main"> SNORT IDS/IPS </a>
 - SOC Automation Project
 <!--
 **Hermes-analyst/Hermes-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
